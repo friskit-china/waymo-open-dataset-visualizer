@@ -1,12 +1,4 @@
-autopep8
-click
-flake8
-isort
-matplotlib
-mypy
-numpy
 open3d
 opencv-python
-pylint
-# tensorflow==2.6.0
+protobuf==3.19.0
 waymo-open-dataset-tf-2-1-0  # do not use waymo-open-dataset-tf-2-6-0
